@@ -4,6 +4,13 @@
 
 Create nft collection contract and pass it to list NFTs also remember to mint NFTs earlier to choose them to be listed by their ID.
 
+![Bez tytułu](https://user-images.githubusercontent.com/30512638/214577911-77ec2a1f-ca81-4a9b-93c5-b6e07278f9c1.png)
+
+![nft #1](https://user-images.githubusercontent.com/30512638/214577968-92c55da5-657a-4b99-9aa5-51fe090a5df6.png)
+
+![make offer #1](https://user-images.githubusercontent.com/30512638/214577984-af8fbff8-10e1-4e18-a89d-d338e44068f1.png)
+
+
 ## Introduction
 
 In this guide, you will learn how to create a marketplace like [OpenSea](https://opensea.io/) on the Goerli Ethereum test network!
