@@ -1,5 +1,9 @@
 # Marketplace With Next.JS
 
+## Instruction for test usage
+
+Create nft collection contract and pass it to list NFTs also remember to mint NFTs earlier to choose them to be listed by their ID.
+
 ## Introduction
 
 In this guide, you will learn how to create a marketplace like [OpenSea](https://opensea.io/) on the Goerli Ethereum test network!
