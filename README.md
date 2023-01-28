@@ -2,7 +2,7 @@
 
 ## Instruction for test usage
 
-Create nft collection contract and pass it to list NFTs also remember to mint NFTs earlier to choose them to be listed by their ID.
+Create nft collection contract and pass it to list NFTs also remember to mint NFTs earlier to choose them to be listed by their ID. Also change address in addressess file for Marketplace smart contract address.
 
 ![Bez tytułu](https://user-images.githubusercontent.com/30512638/214577911-77ec2a1f-ca81-4a9b-93c5-b6e07278f9c1.png)
 
